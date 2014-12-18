@@ -23,7 +23,7 @@ return @"";
     
     if ([activityType isEqualToString:UIActivityTypePostToFacebook])
     {
-        shareString =  @"facebook share message with this";
+        shareString =  @"facebook share message with this at 3:16";
     }
     
     return shareString;
