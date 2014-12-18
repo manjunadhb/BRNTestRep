@@ -29,7 +29,7 @@
 
 - (void)performActivity
 {
-    NSLog(@"do what ever you want");
+    NSLog(@"do what ever you want in this line");
     [self activityDidFinish:YES];
 }
 
